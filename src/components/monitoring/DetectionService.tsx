@@ -240,7 +240,7 @@ const DetectionService: React.FC = () => {
   }
 
   return (
-    <div className="relative">
+    <div className="">
       <Webcam
         ref={webcamRef}
         className="rounded-lg"
